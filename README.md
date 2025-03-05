@@ -1,6 +1,6 @@
 # module2Lesson4
 
-# Python Regex Exercises
+## Python Regex Exercises
 
 This project contains exercises that demonstrate the use of Regular Expressions (regex) in Python. The main focus is on text extraction, pattern matching, and validation using the built-in `re` module. The two exercises provided showcase the power of regex for practical tasks.
 
