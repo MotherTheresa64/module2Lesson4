@@ -1,4 +1,9 @@
-# Engage & Apply (Mid-Lesson Exercise) -------------------------------------------------------------> Pre-provided Solution
+# Lesson 4: Python Regex - Engage & Apply + Final Challenge
+
+# ===========================
+# engage and apply ---------> Exercise 1 pre-provided
+# ===========================
+
 # Task: You're given a list of random tweets. Your job is to extract all hashtags using a regex pattern.
 
 # Sample tweets
@@ -8,7 +13,7 @@ tweets = [
     "Can't wait for the #weekend! #fun #relax"
 ]
 
-# Solution: 
+# Solution:
 # Importing the 're' module for regex matching
 import re
 
@@ -23,8 +28,10 @@ print(hashtags)
 # Expected Output:
 # ['#sunset', '#nature', '#blessed', '#happy', '#friends', '#goodvibes', '#weekend', '#fun', '#relax']
 
+# ===========================
+# engage and apply ---------> Exercise 1 My Version Created
+# ===========================
 
-# Engage & Apply (Mid-Lesson Exercise) -------------------------------------------------------------> My version created
 # Task: Extract all hashtags from a list of tweets using a regex pattern. 
 
 # Sample tweets
@@ -34,7 +41,7 @@ tweets = [
     "Coffee and #coding! #developer #workfromhome #productivity"
 ]
 
-# Solution: 
+# Solution:
 # Importing the 're' module for regex matching
 import re
 
@@ -49,8 +56,10 @@ print("Extracted Hashtags:", hashtags)
 # Expected Output:
 # ['#mountains', '#adventure', '#explore', '#outdoors', '#beach', '#sun', '#fun', '#vacation', '#coding', '#developer', '#workfromhome', '#productivity']
 
+# ===========================
+# final challenge ---------> pre-provided
+# ===========================
 
-# Final Challenge (End of Lesson Exercise) -------------------------------------------------------------> Pre-provided Solution
 # Task: You are tasked with creating a simple email validation script 
 # that accepts a list of emails and checks if they are valid based on a regex pattern.
 
@@ -80,8 +89,10 @@ for email in emails:
 # incorrect-email-at-example.com is invalid
 # another.correct.email@example.org is valid
 
+# ===========================
+# final challenge ---------> My Version Created
+# ===========================
 
-# Final Challenge (End of Lesson Exercise) -------------------------------------------------------------> My version created
 # Task: Write a script to validate a list of email addresses based on a regex pattern.
 
 # Sample emails
